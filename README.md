@@ -17,19 +17,21 @@ The database I created features two collections, 'Posts' and 'Users', with docum
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Google Firebase
 
-{Describe the programming language that you used and any libraries.}
+VS Code
+
+Python3 with the firebase_admin library and the OS library
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Firebase Admin Documentation](https://firebase.google.com/docs/reference/admin)
+* [Youtube tutorial](https://www.youtube.com/watch?v=UVzBQ0LkO28)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+
+* More secure Username and password authentification.
+* Designing of 'posts' collection to be able to view them based off of most recent and view only a few.
+* The functionality to update posts that you post.
